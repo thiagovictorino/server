@@ -15,8 +15,6 @@ dpkg-reconfigure locales
 
 echo "Installing some packages..."
 
-sudo apt-get update -y
-
 sudo apt-get install debian-keyring debian-archive-keyring
 
 sudo apt-get update -y

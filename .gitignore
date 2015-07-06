@@ -3,3 +3,4 @@ vdi/*
 ~
 .bash_history
 .vagrant/*
+*.asc
